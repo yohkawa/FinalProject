@@ -1,0 +1,4 @@
+Stuart, Both, Morning, Morning, Morning, None, Both, Both
+Kevin, Both, Morning, Evening, Evening, Evening, Evening, Both
+Bob, Both, Morning, Morning, Both, Morning, Both, Both
+Gru, Morning, Evening, Both, Evening, None, None, Evening

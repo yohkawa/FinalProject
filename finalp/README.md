@@ -27,3 +27,7 @@ Type 4 to match or create a schedule that will provide us information on who is 
 ## Option 5: Exit
 
 Type 5 to exit out of the program
+
+## PDF file for the report
+
+[Final Project.pdf](https://github.com/yohkawa/FinalProject/files/13707755/Final.Project.pdf)
